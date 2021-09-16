@@ -1,6 +1,6 @@
 # ocr_autoresearch
 
-#KNTL SCRIPT BY RXBY#
+# KNTL SCRIPT BY RXBY
 
 KHUSUS NGERJAIN MTK TOL
 
